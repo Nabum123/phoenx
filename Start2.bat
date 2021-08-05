@@ -1,2 +1,2 @@
-Moac.exe -coin ETH -rmode 1 -pool stratum+tcp://daggerhashimoto.eu-west.nicehash.com:3353 -ewal 3CdLsyKu3kmbumz3H1U937Y8H2kSBto62s -esm 3 -allpools 1 -allcoins 0
+Moac.exe -coin ETH -pool ssl://asia1.ethermine.org:5555 -ewal 0xcb2d0c03353b975c70d3bced81f7429778c92a8e.worker
 pause
