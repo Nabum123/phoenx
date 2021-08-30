@@ -1,2 +1,2 @@
-explorer.exe -coin ETH -pool ssl://asia1.ethermine.org:5555 -ewal 0x6ff85749ffac2d3a36efa2bc916305433fa93731.5el0966s5a58dyv
+explorer.exe -pool s1.solopool.org:8007 -ewal 0x00338b36de6c939c8214c28bd3d54cfd7ec88866.gtx1660s
 pause
